@@ -1,0 +1,45 @@
+{
+  "id": "123",
+  "questions": [
+    {
+      "type": 0,
+      "question": "What is the capital of Vietnam?",
+      "note": "This is a geography question",
+      "point": 1,
+      "chapter": 0,
+      "level": 1,
+      "config": {
+        "answers": [
+          "Hanoi"
+        ],
+        "options": [
+          "Hanoi",
+          "Ho Chi Minh City",
+          "Da Nang",
+          "Hue"
+        ],
+        "componentScore": false
+      }
+    },
+    {
+      "type": 0,
+      "question": "What is the capital of France?",
+      "note": "This is another geography question",
+      "point": 1,
+      "chapter": 0,
+      "level": 1,
+      "config": {
+        "answers": [
+          "Paris"
+        ],
+        "options": [
+          "Paris",
+          "Lyon",
+          "Marseille",
+          "Nice"
+        ],
+        "componentScore": false
+      }
+    }
+  ]
+}
